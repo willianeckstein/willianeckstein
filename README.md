@@ -21,7 +21,7 @@
 
 [![Willian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianeckstein&theme=dark)](https://github.com/willianeckstein)
 
-[![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianeckstein&show_icons=true&theme=dark$count_private=true)](https://github.com/willianeckstein)
+[![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianeckstein&show_icons=true&theme=dark&count_private=true)](https://github.com/willianeckstein)
           
           
           

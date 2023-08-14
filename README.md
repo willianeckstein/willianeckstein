@@ -4,7 +4,7 @@
 
 ### And I'm a Software Engineer
 
-- 🔭 I’m currently working on Printer do Brasil as a Product Manager 
+- 🔭 I’m currently working on Printer do Brasil as a Tech Lead 
 
 - 🌱 But i'm also studying react.js trying to improve my skills to an advanced level
 

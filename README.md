@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working as a Tech Lead at [Printer do Brasil](https://printerdobrasil.com.br/)
 
-- 🌱 I’m currently trying to improve my skills on **Ruby on Rails and AWS**
+- 🌱 I’m currently focused on improving my skills in **TS, React and Next.js**
+
+- 🌱 Also looking to learn backend technologies such as **Ruby on rails and Node.js**
+
+- 🌱 And pursuing my first cloud certification on **AWS**
 
 - 💬 If you want to chat we can talk about **React, Next.js, Frontend Development**
 

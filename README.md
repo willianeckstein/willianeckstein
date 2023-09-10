@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working as a Tech Lead at [Printer do Brasil](https://printerdobrasil.com.br/)
 
-- 🌱 I’m currently focused on improving my skills in **TS, React and Next.js**
+- 🌱 I’m currently focused on deeply understanding the following languages **JS, TS, and Ruby**
 
-- 🌱 Also looking to learn backend technologies such as **Ruby on rails and Node.js**
-
-- 🌱 And pursuing my first cloud certification on **AWS**
-
-- 💬 If you want to chat we can talk about **React, Next.js, Frontend Development**
+- 💬 If you want to chat we can talk about **Software engineering in general**
 
 - 📫 How to reach me **willianeckstein1@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Willian Eckstein</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working as a Tech Lead at [Printer do Brasil](https://printerdobrasil.com.br/)
+- 🔭 I’m currently working as a Tech Lead at [Delinea]([https://printerdobrasil.com.br/](https://www.delinea.com.br/))
 
 - 🌱 I’m currently focused on deeply understanding the following languages **JS, TS, and Ruby**
 

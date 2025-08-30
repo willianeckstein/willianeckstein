@@ -18,6 +18,8 @@ Helping people and businesses implement technology with **clarity and purpose**.
 - **[Plúmula](https://plumula.techstein.com.br)** – Conversational AI assistant for smallholder farmers, integrating WhatsApp + AI agents.  
 - **Techstein Projects** – Digital transformation solutions for regional businesses.
 
+---
+
 ### 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/willianeckstein/)
 
